@@ -1,3 +1,10 @@
+# THIS FORK IS FOR PERSONAL USE WITH TINYBVH
+
+It allows for:
+```cpp
+glm::vec3 v = 0.0f;
+```
+
 ![glm](/doc/manual/logo-mini.png)
 
 [OpenGL Mathematics](http://glm.g-truc.net/) (*GLM*) is a header only C++ mathematics library for graphics software based on the [OpenGL Shading Language (GLSL) specifications](https://registry.khronos.org/OpenGL/specs/gl/GLSLangSpec.4.60.pdf).

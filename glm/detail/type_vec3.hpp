@@ -111,7 +111,8 @@ namespace glm
 
 		// -- Explicit basic constructors --
 
-		GLM_CTOR_DECL explicit vec(T scalar);
+		//GLM_CTOR_DECL explicit vec(T scalar);
+		GLM_CTOR_DECL vec(T scalar);
 		GLM_CTOR_DECL vec(T a, T b, T c);
 
 		// -- Conversion scalar constructors --
